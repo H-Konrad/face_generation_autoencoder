@@ -13,3 +13,12 @@ For a in-depth explanaiton of methods and results, see the project report:
 ---
 
 ## Repository Structure
+
+### Code
+- `generation.py` :
+- `models.py` :
+- `testing.py` :
+- `training.py` :
+
+### Notebook
+- `project.ipynb` : 
